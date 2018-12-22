@@ -14,3 +14,6 @@ As of now, hardcoded it supports just Finnish language. You can change the langu
 3. Make the script translatable
 4. Make the code working even offline
 5. Create a website
+
+## Thanks
+I want to thank [Luitzen](https://www.wikidata.org/wiki/User:Luitzen) and [Tagishsimon](https://www.wikidata.org/wiki/User:Tagishsimon) for the [query](https://www.wikidata.org/w/index.php?title=Wikidata:Request_a_query&oldid=817351771#Getting_words_and_decletions) used to get the words and declensions
